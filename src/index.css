@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #F2F4F5;
+    color: #1E1E1F;
+    font-family: 'Kalam', cursive;
+}
+
+#root {
+    margin: 0;
+    position: relative;
+    min-height: 100vh;
+}
